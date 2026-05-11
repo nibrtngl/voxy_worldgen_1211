@@ -4,7 +4,7 @@
 
 
 Automatically generates chunks around players as they explore, integrating with Voxy for LOD generation.
-
+  
 ![Voxy World Gen Logo](pregen-logo.png)
 
 ## Features
