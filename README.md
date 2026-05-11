@@ -3,8 +3,7 @@
 ## PLEASE FOR THE LOVE OF GOD DON'T BOTHER THE FINE PEOPLE ON CORTEX DISCORD WITH BUGS RELATING TO THIS, NO SUPPORT FOR BACKPORTS WILL BE GIVEN
 
 
-Automatically generates chunks around players as they explore, integrating with Voxy for LOD generation.
-  
+Automatically generates chunks around players as they explore, integrating with Voxy for LOD generation.  ssda
 ![Voxy World Gen Logo](pregen-logo.png)
 
 ## Features
